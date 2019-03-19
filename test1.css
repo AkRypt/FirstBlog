@@ -1,0 +1,80 @@
+.f1 {
+    font-style: normal;
+    font-size: 30px;
+    color: orangered;
+    margin-bottom: 10px;
+    outline-offset: 20px;
+}
+
+.navtop {
+    text-align: center;
+    margin-top: 22px;
+}
+.navtop a {
+    background-color:#09234f;
+    width: 100%;
+    height: 50px;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Verdana;
+    padding: 1% 11%;
+    color: white;
+}
+.navtop a:hover {
+    background-color:#0c4ab2;
+}
+
+.sidenav {
+    width: 15%;
+    margin-top: 25px;
+    position: fixed;
+    top: 20;
+    overflow-x: hidden;
+    background-color: #04183a;
+    padding: 8px 0;
+}
+.sidenav a {
+    text-decoration: none;
+    display: block;
+    margin-left: 12px;
+    padding: 8px 12px 8px 16px;
+    color: #0ffbff;
+    font-family: Verdana;
+    font-size: 16px;
+}
+.sidenav a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    margin-left: 16%;
+    top: 0;
+}
+
+p {
+    font-size: 24px;
+    font-family: ZCOOL XiaoWei;
+    color: #ff19eb;
+}
+
+.note {
+    border-left: solid 2px red;
+    background-color: #04183a;
+    padding: 10px 10px;
+    margin-right:220px;
+    color: yellow;
+    font-family: Calibri;
+}
+
+#hometop {
+    text-align:center;
+    font-family: Lobster;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #0aff32;
+}
